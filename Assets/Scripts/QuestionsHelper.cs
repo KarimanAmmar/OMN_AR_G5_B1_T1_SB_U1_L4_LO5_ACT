@@ -5,16 +5,24 @@ public class QuestionsHelper : MonoBehaviour
 {
     [SerializeField] Button2[] buttonsList;
     [SerializeField] GameObject[] Wrongoutlines;
+    [SerializeField] Image[] images;
     public void whenCorrectButtonClicked()
     {
-        for (int i = 0; i < Wrongoutlines.Length; i++)
+        if (Wrongoutlines.Length > 0)
         {
-            Wrongoutlines[i].SetActive(false);
+            for (int i = 0; i < Wrongoutlines.Length; i++)
+            {
+                Wrongoutlines[i].SetActive(false);
+            }
         }
-        for (int i = 0;i < buttonsList.Length;i++) 
+        if (buttonsList != null)
         {
-            buttonsList[i].interactable = false;
+            for (int i = 0; i < buttonsList.Length; i++)
+            {
+                buttonsList[i].interactable = false;
+            }
         }
+        DisableImageRaycast();
     }
     public void EnableQuestions()
     {
@@ -30,5 +38,18 @@ public class QuestionsHelper : MonoBehaviour
             buttonsList[i].interactable = false;
         }
     }
-
+    public void DisableImageRaycast()
+    {
+        for(int i = 0;i < images.Length; i++)
+        {
+            images[i].raycastTarget = false;
+        }
+    }
+    public void EnableImageRaycast()
+    {
+        for (int i = 0; i < images.Length; i++)
+        {
+            images[i].raycastTarget = true;
+        }
+    }
 }

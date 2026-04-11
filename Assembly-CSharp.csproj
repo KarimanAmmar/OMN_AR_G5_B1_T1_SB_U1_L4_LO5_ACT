@@ -99,6 +99,7 @@
     <Compile Include="Assets\Systems\Audio Manager\AudioManager.cs" />
     <Compile Include="Assets\Scripts\Feedback.cs" />
     <Compile Include="Assets\Systems\InputField Checker\InputFieldChecker.cs" />
+    <Compile Include="Assets\Scripts\Clickable.cs" />
     <Compile Include="Assets\Systems\Game Sequence Manager\GameSequenceManager.cs" />
     <Compile Include="Assets\External Assets\Events 2.0 for Unity\Examples\Scripts\ClickHandler2.cs" />
     <Compile Include="Assets\Systems\Cursor Changer\CursorChanger.cs" />
