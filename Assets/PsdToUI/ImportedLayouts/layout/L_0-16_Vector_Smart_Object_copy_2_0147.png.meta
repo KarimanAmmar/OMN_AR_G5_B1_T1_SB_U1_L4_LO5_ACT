@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 5c62b191939cc404c80a07c42e1ab6fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -397843110173642387
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_0
+  - first:
+      213: 1751132573291294341
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_1
+  - first:
+      213: 7391658382298658892
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_2
+  - first:
+      213: 8225224576043180624
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_3
+  - first:
+      213: -8606651255345910874
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_4
+  - first:
+      213: -9047381956607027263
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_5
+  - first:
+      213: -1409794643149919879
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_6
+  - first:
+      213: -5809155635978807591
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_7
+  - first:
+      213: -191424096809840180
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_8
+  - first:
+      213: 2547616505624472932
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_9
+  - first:
+      213: -6697214650477703903
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_10
+  - first:
+      213: 1836225387807741317
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_11
+  - first:
+      213: -4675327632553395292
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_12
+  - first:
+      213: 7039488482652724060
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_13
+  - first:
+      213: 5804659384310188399
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_14
+  - first:
+      213: 5497511091459542203
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_15
+  - first:
+      213: -6741934954670329808
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_16
+  - first:
+      213: -2447168718459124601
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_17
+  - first:
+      213: 6861415601911909486
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_18
+  - first:
+      213: -7275140772853802362
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_19
+  - first:
+      213: -950775293923084416
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_20
+  - first:
+      213: 1886019120110861671
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_21
+  - first:
+      213: 7814618444537877997
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_22
+  - first:
+      213: 5893631577681114971
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_23
+  - first:
+      213: 4485634674606960838
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_24
+  - first:
+      213: 678674814962780325
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_25
+  - first:
+      213: -7034024371076642303
+    second: L_0-16_Vector_Smart_Object_copy_2_0147_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1383
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6173c59cc39a7af0800000000000000
+      internalID: -397843110173642387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ea4a92cc54d4810800000000000000
+      internalID: 1751132573291294341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4833f1d222749660800000000000000
+      internalID: 7391658382298658892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 129
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052eddc3c2ed52270800000000000000
+      internalID: 8225224576043180624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 129
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abef6388480f8880800000000000000
+      internalID: -8606651255345910874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d829ab0e317280800000000000000
+      internalID: -9047381956607027263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_6
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ecc0dd376f6ce0800000000000000
+      internalID: -1409794643149919879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 129
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d656803abbb16fa0800000000000000
+      internalID: -5809155635978807591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_8
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 129
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc113345ccce75df0800000000000000
+      internalID: -191424096809840180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_9
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d2ba9c6b3fa5320800000000000000
+      internalID: 2547616505624472932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_10
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d0cbd32c6be03a0800000000000000
+      internalID: -6697214650477703903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_11
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0
+        width: 129
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58595dfe2459b7910800000000000000
+      internalID: 1836225387807741317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 0
+        width: 129
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab36150a46ed1fb0800000000000000
+      internalID: -4675327632553395292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_13
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b18f86a7941b160800000000000000
+      internalID: 7039488482652724060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_14
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6942f3a4fa4e8050800000000000000
+      internalID: 5804659384310188399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_15
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 129
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc473be5351b4c40800000000000000
+      internalID: 5497511091459542203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_16
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 0
+        width: 129
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030f51801e5df62a0800000000000000
+      internalID: -6741934954670329808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_17
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784cbc62409e90ed0800000000000000
+      internalID: -2447168718459124601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_18
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 0
+        width: 130
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c4848f225a83f50800000000000000
+      internalID: 6861415601911909486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_19
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 0
+        width: 114
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a961f2302890b90800000000000000
+      internalID: -7275140772853802362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0873f7858ea2ec2f0800000000000000
+      internalID: -950775293923084416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d7dcda56c7c2a10800000000000000
+      internalID: 1886019120110861671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de555e9521a137c60800000000000000
+      internalID: 7814618444537877997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5735b0b1b26ac150800000000000000
+      internalID: 5893631577681114971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c07f1c78fc204e30800000000000000
+      internalID: 4485634674606960838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a84cdff5232b6900800000000000000
+      internalID: 678674814962780325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_0-16_Vector_Smart_Object_copy_2_0147_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a49843a10226e90800000000000000
+      internalID: -7034024371076642303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      L_0-16_Vector_Smart_Object_copy_2_0147_0: -397843110173642387
+      L_0-16_Vector_Smart_Object_copy_2_0147_1: 1751132573291294341
+      L_0-16_Vector_Smart_Object_copy_2_0147_10: -6697214650477703903
+      L_0-16_Vector_Smart_Object_copy_2_0147_11: 1836225387807741317
+      L_0-16_Vector_Smart_Object_copy_2_0147_12: -4675327632553395292
+      L_0-16_Vector_Smart_Object_copy_2_0147_13: 7039488482652724060
+      L_0-16_Vector_Smart_Object_copy_2_0147_14: 5804659384310188399
+      L_0-16_Vector_Smart_Object_copy_2_0147_15: 5497511091459542203
+      L_0-16_Vector_Smart_Object_copy_2_0147_16: -6741934954670329808
+      L_0-16_Vector_Smart_Object_copy_2_0147_17: -2447168718459124601
+      L_0-16_Vector_Smart_Object_copy_2_0147_18: 6861415601911909486
+      L_0-16_Vector_Smart_Object_copy_2_0147_19: -7275140772853802362
+      L_0-16_Vector_Smart_Object_copy_2_0147_2: 7391658382298658892
+      L_0-16_Vector_Smart_Object_copy_2_0147_20: -950775293923084416
+      L_0-16_Vector_Smart_Object_copy_2_0147_21: 1886019120110861671
+      L_0-16_Vector_Smart_Object_copy_2_0147_22: 7814618444537877997
+      L_0-16_Vector_Smart_Object_copy_2_0147_23: 5893631577681114971
+      L_0-16_Vector_Smart_Object_copy_2_0147_24: 4485634674606960838
+      L_0-16_Vector_Smart_Object_copy_2_0147_25: 678674814962780325
+      L_0-16_Vector_Smart_Object_copy_2_0147_26: -7034024371076642303
+      L_0-16_Vector_Smart_Object_copy_2_0147_3: 8225224576043180624
+      L_0-16_Vector_Smart_Object_copy_2_0147_4: -8606651255345910874
+      L_0-16_Vector_Smart_Object_copy_2_0147_5: -9047381956607027263
+      L_0-16_Vector_Smart_Object_copy_2_0147_6: -1409794643149919879
+      L_0-16_Vector_Smart_Object_copy_2_0147_7: -5809155635978807591
+      L_0-16_Vector_Smart_Object_copy_2_0147_8: -191424096809840180
+      L_0-16_Vector_Smart_Object_copy_2_0147_9: 2547616505624472932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
