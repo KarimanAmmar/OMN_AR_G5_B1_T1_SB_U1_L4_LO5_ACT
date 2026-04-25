@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: c7de12dba9f6d2242a178574b99732a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2267936050180351624
+    second: highlited 3_0
+  - first:
+      213: 537725963043433798
+    second: highlited 3_1
+  - first:
+      213: -801053297514704695
+    second: highlited 3_2
+  - first:
+      213: 4088143313921096819
+    second: highlited 3_3
+  - first:
+      213: -2747768808430853477
+    second: highlited 3_4
+  - first:
+      213: 2503279090443968098
+    second: highlited 3_5
+  - first:
+      213: 353383261592216627
+    second: highlited 3_6
+  - first:
+      213: -8076800800685048726
+    second: highlited 3_7
+  - first:
+      213: 5334536940531980869
+    second: highlited 3_8
+  - first:
+      213: 7114407771761653185
+    second: highlited 3_9
+  - first:
+      213: 3887741958037933302
+    second: highlited 3_10
+  - first:
+      213: 4606465743979312411
+    second: highlited 3_11
+  - first:
+      213: -8844732999028184030
+    second: highlited 3_12
+  - first:
+      213: 8264824950685001747
+    second: highlited 3_13
+  - first:
+      213: 3997618277822432329
+    second: highlited 3_14
+  - first:
+      213: -7945881820461306513
+    second: highlited 3_15
+  - first:
+      213: 5536815328175406008
+    second: highlited 3_16
+  - first:
+      213: 1410266317242477618
+    second: highlited 3_17
+  - first:
+      213: -3187249252049383275
+    second: highlited 3_18
+  - first:
+      213: 1357940132834439342
+    second: highlited 3_19
+  - first:
+      213: -8157132382549080301
+    second: highlited 3_20
+  - first:
+      213: -2512193174140158439
+    second: highlited 3_21
+  - first:
+      213: 3939316125439629499
+    second: highlited 3_22
+  - first:
+      213: 5331969964355497702
+    second: highlited 3_23
+  - first:
+      213: -7282537489278061585
+    second: highlited 3_24
+  - first:
+      213: 3959334528104942456
+    second: highlited 3_25
+  - first:
+      213: -5673579493777358096
+    second: highlited 3_26
+  - first:
+      213: 1058985930278722527
+    second: highlited 3_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: highlited 3_0
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1472
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866d4452d3597f10800000000000000
+      internalID: 2267936050180351624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_1
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1476
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d65b51ae2667700800000000000000
+      internalID: 537725963043433798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_2
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1477
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c01b73254612e4f0800000000000000
+      internalID: -801053297514704695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_3
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1464
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cb7212fa00cb830800000000000000
+      internalID: 4088143313921096819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_4
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1474
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92a498b3d6fdd9d0800000000000000
+      internalID: -2747768808430853477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_5
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1475
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e539fd11f6db220800000000000000
+      internalID: 2503279090443968098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_6
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1430
+        width: 201
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334e5c0443877e400800000000000000
+      internalID: 353383261592216627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_7
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1463
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cb399e67079ef80800000000000000
+      internalID: -8076800800685048726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_8
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1430
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a9b957515180a40800000000000000
+      internalID: 5334536940531980869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_9
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1461
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5b127bc247bb260800000000000000
+      internalID: 7114407771761653185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_10
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1463
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc8b3376b804f530800000000000000
+      internalID: 3887741958037933302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1430
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1574e320347def30800000000000000
+      internalID: 4606465743979312411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_12
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1430
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cefb3e232314580800000000000000
+      internalID: -8844732999028184030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_13
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1430
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3186d54f08e82b270800000000000000
+      internalID: 8264824950685001747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_14
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1415
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9440735b4a46a7730800000000000000
+      internalID: 3997618277822432329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_15
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1430
+        width: 150
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d6b28559e8ab190800000000000000
+      internalID: -7945881820461306513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_16
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1430
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb35d6a438b6dc40800000000000000
+      internalID: 5536815328175406008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_17
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1444
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cafed5eb5429310800000000000000
+      internalID: 1410266317242477618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_18
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1430
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59097f821bd94c3d0800000000000000
+      internalID: -3187249252049383275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_19
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1430
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0f7db2b5f58d210800000000000000
+      internalID: 1357940132834439342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1419
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3178350015b0cce80800000000000000
+      internalID: -8157132382549080301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_21
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1416
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ef6384e95e22dd0800000000000000
+      internalID: -2512193174140158439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_22
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1417
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb81cca05234ba630800000000000000
+      internalID: 3939316125439629499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_23
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1419
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee267ebe66fef940800000000000000
+      internalID: 5331969964355497702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_24
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1416
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3bd10fcba3fea90800000000000000
+      internalID: -7282537489278061585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_25
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1416
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b42ae96c162f630800000000000000
+      internalID: 3959334528104942456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_26
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1413
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2c574a2856341b0800000000000000
+      internalID: -5673579493777358096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 3_27
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1407
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb5664c71642be00800000000000000
+      internalID: 1058985930278722527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      highlited 3_0: 2267936050180351624
+      highlited 3_1: 537725963043433798
+      highlited 3_10: 3887741958037933302
+      highlited 3_11: 4606465743979312411
+      highlited 3_12: -8844732999028184030
+      highlited 3_13: 8264824950685001747
+      highlited 3_14: 3997618277822432329
+      highlited 3_15: -7945881820461306513
+      highlited 3_16: 5536815328175406008
+      highlited 3_17: 1410266317242477618
+      highlited 3_18: -3187249252049383275
+      highlited 3_19: 1357940132834439342
+      highlited 3_2: -801053297514704695
+      highlited 3_20: -8157132382549080301
+      highlited 3_21: -2512193174140158439
+      highlited 3_22: 3939316125439629499
+      highlited 3_23: 5331969964355497702
+      highlited 3_24: -7282537489278061585
+      highlited 3_25: 3959334528104942456
+      highlited 3_26: -5673579493777358096
+      highlited 3_27: 1058985930278722527
+      highlited 3_3: 4088143313921096819
+      highlited 3_4: -2747768808430853477
+      highlited 3_5: 2503279090443968098
+      highlited 3_6: 353383261592216627
+      highlited 3_7: -8076800800685048726
+      highlited 3_8: 5334536940531980869
+      highlited 3_9: 7114407771761653185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

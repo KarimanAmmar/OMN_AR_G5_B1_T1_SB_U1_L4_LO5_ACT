@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 72acb705c06a0e542b0da5e738ea67f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3573660615473224190
+    second: highlited 1_0
+  - first:
+      213: -8729289095583348195
+    second: highlited 1_1
+  - first:
+      213: 3476854985736411054
+    second: highlited 1_2
+  - first:
+      213: 5518806200199793020
+    second: highlited 1_3
+  - first:
+      213: -4941609469986121165
+    second: highlited 1_4
+  - first:
+      213: 6182556327491535129
+    second: highlited 1_5
+  - first:
+      213: 7215664670648012654
+    second: highlited 1_6
+  - first:
+      213: 9157978890849484029
+    second: highlited 1_7
+  - first:
+      213: -5930430555556258168
+    second: highlited 1_8
+  - first:
+      213: -5808098789987383972
+    second: highlited 1_9
+  - first:
+      213: 5513403841778078690
+    second: highlited 1_10
+  - first:
+      213: 9203635799995151184
+    second: highlited 1_11
+  - first:
+      213: -1774737619733863169
+    second: highlited 1_12
+  - first:
+      213: 8453616853077094957
+    second: highlited 1_13
+  - first:
+      213: -8167403452878684613
+    second: highlited 1_14
+  - first:
+      213: -8859566903019877267
+    second: highlited 1_15
+  - first:
+      213: -8016443427614082599
+    second: highlited 1_16
+  - first:
+      213: -6814989487613338246
+    second: highlited 1_17
+  - first:
+      213: 824374828129273861
+    second: highlited 1_18
+  - first:
+      213: 2584667112095758620
+    second: highlited 1_19
+  - first:
+      213: 6890210993345249659
+    second: highlited 1_20
+  - first:
+      213: 505297946314844213
+    second: highlited 1_21
+  - first:
+      213: -3091104442689727930
+    second: highlited 1_22
+  - first:
+      213: -3926812746474555430
+    second: highlited 1_23
+  - first:
+      213: -4759158880018964628
+    second: highlited 1_24
+  - first:
+      213: -5151906403240878987
+    second: highlited 1_25
+  - first:
+      213: 785374367084590384
+    second: highlited 1_26
+  - first:
+      213: 8929111436818896234
+    second: highlited 1_27
+  - first:
+      213: -3409948814777781171
+    second: highlited 1_28
+  - first:
+      213: -3057819785188535287
+    second: highlited 1_29
+  - first:
+      213: 8914111326264838087
+    second: highlited 1_30
+  - first:
+      213: 437971628285898072
+    second: highlited 1_31
+  - first:
+      213: -8873795724588336213
+    second: highlited 1_32
+  - first:
+      213: 7538650946226553586
+    second: highlited 1_33
+  - first:
+      213: -8993341508139428804
+    second: highlited 1_34
+  - first:
+      213: 257292988096172347
+    second: highlited 1_35
+  - first:
+      213: 8797626774587343695
+    second: highlited 1_36
+  - first:
+      213: -4519048061547886132
+    second: highlited 1_37
+  - first:
+      213: 7718060582417042536
+    second: highlited 1_38
+  - first:
+      213: -7690693301187349345
+    second: highlited 1_39
+  - first:
+      213: 2848501567548946015
+    second: highlited 1_40
+  - first:
+      213: -2581265522228125151
+    second: highlited 1_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: highlited 1_0
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1179
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2062ae2ba9ec76ec0800000000000000
+      internalID: -3573660615473224190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_1
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1187
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a401c31d55bd680800000000000000
+      internalID: -8729289095583348195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_2
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1179
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea75d583035404030800000000000000
+      internalID: 3476854985736411054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1183
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79c12bcffcb69c40800000000000000
+      internalID: 5518806200199793020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_4
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1177
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a55ca6e50eb6bb0800000000000000
+      internalID: -4941609469986121165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_5
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1186
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9110af7293adcc550800000000000000
+      internalID: 6182556327491535129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_6
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1178
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f8f48a9c0332460800000000000000
+      internalID: 7215664670648012654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_7
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1182
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcfb99b74da71f70800000000000000
+      internalID: 9157978890849484029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_8
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1186
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e52fa94d0e2bda0800000000000000
+      internalID: -5930430555556258168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_9
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1166
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c550d625cec756fa0800000000000000
+      internalID: -5808098789987383972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_10
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1122
+        width: 109
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3d474359b838c40800000000000000
+      internalID: 5513403841778078690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_11
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1170
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05377c44ff1e9bf70800000000000000
+      internalID: 9203635799995151184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_12
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1166
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ad3ea98dde57e0800000000000000
+      internalID: -1774737619733863169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_13
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1169
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227aea1db7415570800000000000000
+      internalID: 8453616853077094957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_14
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1140
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3efdd515dd87ae80800000000000000
+      internalID: -8167403452878684613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_15
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1170
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c41b977de7c0580800000000000000
+      internalID: -8859566903019877267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_16
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1140
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d93c0fec2fdfb090800000000000000
+      internalID: -8016443427614082599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_17
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1162
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d19ca1b2b4c61a0800000000000000
+      internalID: -6814989487613338246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_18
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1124
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5084b68d984c07b00800000000000000
+      internalID: 824374828129273861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_19
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1140
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c193a175b059ed320800000000000000
+      internalID: 2584667112095758620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_20
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1161
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71c5dd7462fe9f50800000000000000
+      internalID: 6890210993345249659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_21
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1121
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538a4d31ecd230700800000000000000
+      internalID: 505297946314844213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_22
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1140
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d8d103e03a15d0800000000000000
+      internalID: -3091104442689727930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_23
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1140
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad778eabc982189c0800000000000000
+      internalID: -3926812746474555430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fd2d6b63214fdb0800000000000000
+      internalID: -4759158880018964628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c54c61c60c088b0800000000000000
+      internalID: -5151906403240878987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_26
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03536c563d536ea00800000000000000
+      internalID: 785374367084590384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_27
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65d7771b839aeb70800000000000000
+      internalID: 8929111436818896234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44f7e0ae9d6da0d0800000000000000
+      internalID: -3409948814777781171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_29
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9041dac3b117095d0800000000000000
+      internalID: -3057819785188535287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_30
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c74d42b50945bb70800000000000000
+      internalID: 8914111326264838087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d2ead10ecf31600800000000000000
+      internalID: 437971628285898072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_32
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab388acdc1f9d480800000000000000
+      internalID: -8873795724588336213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_33
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f20f77181bae9860800000000000000
+      internalID: 7538650946226553586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_34
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34d29f0c8b313380800000000000000
+      internalID: -8993341508139428804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31dba60c96129300800000000000000
+      internalID: 257292988096172347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_36
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f438ebd80f2771a70800000000000000
+      internalID: 8797626774587343695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_37
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc945802bbd1941c0800000000000000
+      internalID: -4519048061547886132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c89e9253f0c1b60800000000000000
+      internalID: 7718060582417042536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1111
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94704a803b254590800000000000000
+      internalID: -7690693301187349345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_40
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1122
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f5eb6519e78720800000000000000
+      internalID: 2848501567548946015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highlited 1_41
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1122
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12221a40fa08d2cd0800000000000000
+      internalID: -2581265522228125151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      highlited 1_0: -3573660615473224190
+      highlited 1_1: -8729289095583348195
+      highlited 1_10: 5513403841778078690
+      highlited 1_11: 9203635799995151184
+      highlited 1_12: -1774737619733863169
+      highlited 1_13: 8453616853077094957
+      highlited 1_14: -8167403452878684613
+      highlited 1_15: -8859566903019877267
+      highlited 1_16: -8016443427614082599
+      highlited 1_17: -6814989487613338246
+      highlited 1_18: 824374828129273861
+      highlited 1_19: 2584667112095758620
+      highlited 1_2: 3476854985736411054
+      highlited 1_20: 6890210993345249659
+      highlited 1_21: 505297946314844213
+      highlited 1_22: -3091104442689727930
+      highlited 1_23: -3926812746474555430
+      highlited 1_24: -4759158880018964628
+      highlited 1_25: -5151906403240878987
+      highlited 1_26: 785374367084590384
+      highlited 1_27: 8929111436818896234
+      highlited 1_28: -3409948814777781171
+      highlited 1_29: -3057819785188535287
+      highlited 1_3: 5518806200199793020
+      highlited 1_30: 8914111326264838087
+      highlited 1_31: 437971628285898072
+      highlited 1_32: -8873795724588336213
+      highlited 1_33: 7538650946226553586
+      highlited 1_34: -8993341508139428804
+      highlited 1_35: 257292988096172347
+      highlited 1_36: 8797626774587343695
+      highlited 1_37: -4519048061547886132
+      highlited 1_38: 7718060582417042536
+      highlited 1_39: -7690693301187349345
+      highlited 1_4: -4941609469986121165
+      highlited 1_40: 2848501567548946015
+      highlited 1_41: -2581265522228125151
+      highlited 1_5: 6182556327491535129
+      highlited 1_6: 7215664670648012654
+      highlited 1_7: 9157978890849484029
+      highlited 1_8: -5930430555556258168
+      highlited 1_9: -5808098789987383972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

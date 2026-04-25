@@ -92,10 +92,7 @@ namespace UnityEngine.UI
 			get { return m_UsePointerEventData; }
 			set { m_UsePointerEventData = value; }
 		}
-		public void InvokeOnClickEvent()
-		{
-			m_OnClick?.Invoke();
-		}
+
 		/// <summary>
 		/// 
 		/// </summary>
